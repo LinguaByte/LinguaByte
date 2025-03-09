@@ -1,4 +1,6 @@
-
+<h1 aling="centre"> Hi 👋, I'm Shrutayu Wankhade</h1>
+<h2 align="centre"> A passionate computer engineer</h2>
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutayu-wankhade-515615288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutayuwankhade202@nhitm.ac.in) 
 
