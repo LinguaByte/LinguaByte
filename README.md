@@ -1,7 +1,20 @@
+![Header](https://github.com/user-attachments/assets/88adc2d2-62ba-4a5e-bc96-a73d44c443dc)
+
 <h1 aling="centre"> Hi 👋, I'm Shrutayu Wankhade</h1>
-<h2 align="centre"> A passionate computer engineer</h2>
- 
-## 🌐 Socials:
+<h2 align="centre"> A passionate Computer Engineer</h2>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw0NmJwMG5rYnNkZmZuZ3NndzVsdHRyNnQ3M2s2d3U0YW9ybXA5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 💫 About Me:
+
+🔭 I’m currently working on Data Analytics<br>
+🤝 I’m looking for Job<br>
+🌱 I’m currently learning Artificial intelligence (AI).<br>
+💬 Ask me about Database.<br>
+📮 How to reach me "shrutayuwankhade202@nhitm.ac.in"<br>
+⚡ Fun fact "I am Funny"<br>
+<br>
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrutayu-wankhade-515615288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutayuwankhade202@nhitm.ac.in) 
 
 # 💻 Tech Stack:
@@ -17,4 +30,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LinguaByte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
